@@ -2,6 +2,7 @@
 
 ## I have completely read the README.md file - Jonathan Hall
               👍       👍      👍
+              😄       🙂      🙂
 
 ## 🤓 Course overview and learning outcomes 
 
