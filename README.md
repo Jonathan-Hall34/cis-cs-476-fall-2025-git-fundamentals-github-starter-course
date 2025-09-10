@@ -1,5 +1,9 @@
 # :wave: The Basics of Git and GitHub 
 
+I have completely read the README.md File - Jonathan Hall
+                👍   👍   👍
+                😄   😄   😄
+
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform.
